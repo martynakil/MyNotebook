@@ -25,6 +25,9 @@ Each category has a different color :blush:
 
 
 
+-----
+
+
 :computer: TECHNOLOGIES : html, css and JS.
 
 
