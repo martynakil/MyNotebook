@@ -31,7 +31,8 @@ Each category has a different color :blush:
 :computer: TECHNOLOGIES : html, css and JS.
 
 
-
+------
+*My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/STONE-PAPER-SCISSORS-GAME)*
 
 
 
