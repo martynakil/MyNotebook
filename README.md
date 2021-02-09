@@ -1,7 +1,7 @@
  <h1> MyNotebook </h1>
 
  
-*<h2>Simple application  "add a note"*. :blue_book:</h2>
+*<h2>Simple application  "add a note"* :blue_book:</h2>
 
 ----
 
@@ -12,6 +12,10 @@
 * we can delete the note
 
 Each category has a different color.
+
+-------
+
+<h3>What did I use in the project? What have I learned?</h3>
 
 :computer: TECHNOLOGIES : html, css and JS.
 
