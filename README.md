@@ -1,7 +1,7 @@
  <h1> MyNotebook </h1>
 
  
-*<h2>Simple application  "add a note"*. :blue_book:
+*<h2>Simple application  "add a note"*. :blue_book:</h2>
 
 ----
 
