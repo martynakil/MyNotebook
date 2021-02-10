@@ -35,8 +35,12 @@ Each category has a different color :blush:
 
 -----
 
-:computer: TECHNOLOGIES : html, css and JS.
 
+
+:computer: TECHNOLOGIES : html, css and JS.
+------
+
+LIVE:    :arrow_forward:   https://martynakil.github.io/MyNotebook/MyNotes/index.html     :arrow_backward:
 
 ------
 *My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/STONE-PAPER-SCISSORS-GAME)*
@@ -44,6 +48,8 @@ Each category has a different color :blush:
 
 
 ![MyNotebook](https://user-images.githubusercontent.com/59742201/104838578-15563800-58bc-11eb-98a7-b28dbb571a83.png)
+
+
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59742201/106279277-737c0700-623c-11eb-91b1-81619e8c807e.gif)
