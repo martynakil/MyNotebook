@@ -40,10 +40,10 @@ Each category has a different color :blush:
 :computer: TECHNOLOGIES : html, css and JS.
 ------
 
-LIVE:    :arrow_forward:   https://martynakil.github.io/MyNotebook/MyNotes/index.html     :arrow_backward:
+LIVE:    :arrow_forward:   [CLICK ME](https://martynakiljan.github.io/MyNotebook/MyNotes/index.html)     :arrow_backward:
 
 ------
-*My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/STONE-PAPER-SCISSORS-GAME)*
+*My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/STONE-PAPER-SCISSORS-GAME))*
 
 
 
